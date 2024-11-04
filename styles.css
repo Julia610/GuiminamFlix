@@ -1,0 +1,40 @@
+body {
+    color: rgb(0, 0, 0);
+    background: rgb(241, 129, 218);
+    margin: 0px;
+    font-family: "Playfair Display", serif;
+}
+
+header {
+    border-bottom: solid 2px rgb(249, 249, 249);
+    padding:40 px;
+    font-size: 32px;
+    color: rgb(247, 240, 243);
+}
+
+section {
+    background: rgb(247, 180, 230);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+h1 {
+    font-size: 40px;
+  }
+  p {
+    font-size: 20px;
+  }
+  img{
+     height: 150px;
+  }
+  .categoria-filmes {
+    display: flez;
+    overflow-x: auto;
+    gap:
+
+  }
